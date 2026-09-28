@@ -6,3 +6,4 @@ graphviz
 fastapi
 uvicorn
 pydantic
+groq
