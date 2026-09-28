@@ -1,0 +1,8 @@
+streamlit
+huggingface_hub
+python-dotenv
+plotly
+graphviz
+fastapi
+uvicorn
+pydantic
